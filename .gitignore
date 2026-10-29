@@ -1,0 +1,6 @@
+.claude/
+NOTES.md
+.DS_Store
+*.json.bak
+chats/
+result.json
